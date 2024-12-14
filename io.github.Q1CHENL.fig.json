@@ -53,8 +53,8 @@
         {
           "type": "git",
           "url": "https://github.com/Q1CHENL/fig.git",
-          "tag": "v1.0.2",
-          "commit": "3cfbf77b0b95a97f6c9681197de40c4e51a090ab"
+          "tag": "v1.0.3",
+          "commit": "56c067743acb7a876a98808fa531ca69b859b8c0"
         }
       ]
     }
