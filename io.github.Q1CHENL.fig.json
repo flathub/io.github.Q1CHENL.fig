@@ -154,8 +154,8 @@
         {
           "type": "git",
           "url": "https://github.com/Q1CHENL/fig.git",
-          "tag": "v1.0.4",
-          "commit": "882f65319abac211f2672fdf67061fd3c89bd25a"
+          "tag": "v1.0.5",
+          "commit": "1e3e5cf23229f82684a6d30541056933d92f1589"
         }
       ]
     }
