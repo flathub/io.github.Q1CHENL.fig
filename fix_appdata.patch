@@ -1,0 +1,45 @@
+From 3d59241b4dd1b9cb375018aac5a0b521bd07d72d Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <161761531+yakushabb@users.noreply.github.com>
+Date: Thu, 18 Dec 2025 01:01:33 +0300
+Subject: [PATCH] Fix appdata papercuts
+
+---
+ io.github.Q1CHENL.fig.metainfo.xml | 10 +++++++---
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+
+diff --git a/io.github.Q1CHENL.fig.metainfo.xml b/io.github.Q1CHENL.fig.metainfo.xml
+index 78f777a..f5c9324 100644
+--- a/io.github.Q1CHENL.fig.metainfo.xml
++++ b/io.github.Q1CHENL.fig.metainfo.xml
+@@ -26,6 +26,8 @@
+   <project_license>MIT</project_license>
+   <developer_name>Qichen Liu</developer_name>
+   <url type="homepage">https://github.com/Q1CHENL/fig</url>
++  <url type="bugtracker">https://github.com/Q1CHENL/fig/issues</url>
++  <url type="vcs-browser">https://github.com/Q1CHENL/fig</url>
+   <releases>
+     <release version="1.0.7" date="2025-04-21">
+       <description>
+@@ -43,13 +45,15 @@
+   <screenshots>
+     <screenshot type="default">
+       <image type="source">
+-        https://raw.githubusercontent.com/Q1CHENL/fig/master/assets/screenshots/screenshot-home-split.png</image>
++        https://raw.githubusercontent.com/Q1CHENL/fig/master/assets/screenshots/screenshot-home-split-latest.png
++      </image>
+       <caption>Home Screen</caption>
+     </screenshot>
+     <screenshot type="default">
+       <image type="source">
+-        https://raw.githubusercontent.com/Q1CHENL/fig/master/assets/screenshots/screenshot-editor-split.png</image>
++        https://raw.githubusercontent.com/Q1CHENL/fig/master/assets/screenshots/screenshot-editor-split-v1.0.7.png
++      </image>
+       <caption>Editor Screen</caption>
+     </screenshot>
+   </screenshots>
+-</component>
+\ No newline at end of file
++</component>
+--
+libgit2 1.7.2
+
